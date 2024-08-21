@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1724276541021" clover="3.2.0">
+  <project timestamp="1724276541021" name="All files">
+    <metrics statements="13" coveredstatements="13" conditionals="14" coveredconditionals="14" methods="2" coveredmethods="2" elements="29" coveredelements="29" complexity="0" loc="13" ncloc="13" packages="2" files="2" classes="2"/>
+    <package name="calculator">
+      <metrics statements="8" coveredstatements="8" conditionals="12" coveredconditionals="12" methods="1" coveredmethods="1"/>
+      <file name="calc.js" path="C:\Users\GAMING STORE\OneDrive\Desktop\SQA tasks\tasks\seifMohsen\calculator\calc.js">
+        <metrics statements="8" coveredstatements="8" conditionals="12" coveredconditionals="12" methods="1" coveredmethods="1"/>
+        <line num="2" count="10" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="emailValidation">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="email.js" path="C:\Users\GAMING STORE\OneDrive\Desktop\SQA tasks\tasks\seifMohsen\emailValidation\email.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="4" count="13" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
